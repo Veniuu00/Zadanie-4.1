@@ -1,0 +1,1 @@
+Z pięciu zdań „Kiedy …, to …” dało się sprawdzić od razu przez uruchomienie trzy: Start uruchamia odliczanie, Pauza zatrzymuje czas, a Reset przywraca 25:00 i etap pracy; nie udało się od razu sprawdzić zakończenia pełnych 25 minut oraz rozpoczęcia przerwy bez klikania, ponieważ wymagają one odczekania pełnego czasu lub skrócenia go w kontrolowanych warunkach testowych.

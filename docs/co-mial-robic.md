@@ -29,3 +29,9 @@
 1. Czas trwania długiej i krótkiej przerwy został przyjęty jako 5 i 15 minut.
 2. Reset w środku przerwy ma zostawić licznika cykli bez zmian i rozpocząć etap pracy od 25:00.
 3. Wznowienie po pauzie ma kontynuować ten sam etap od pozostałego czasu.
+
+## Dopisek po porównaniu z siedmiu zasadami
+
+Z siedmiu zasad udało się odtworzyć sześć: dwadzieścia pięć minut pracy, przerwa pięć minut, długa przerwa piętnaście minut, Start/Pauza/Reset, automatyczny start kolejnego etapu i licznik cykli. Nie udało się odtworzyć z pamięci dokładnej zasady dotyczącej resetu w środku przerwy.
+
+Program dodatkowo po skończeniu czwartego cyklu pracy uruchamia długą przerwę piętnastominutową; sytuacja ta nie wynikała z żadnej z zapamiętanych siedmiu zasad i została uzupełniona przez decyzję projektową implementacji.
